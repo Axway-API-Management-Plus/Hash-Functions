@@ -19,21 +19,21 @@ To be completed
 ## Usage
 
 Specifications
-• We would like to check if a user exists in a database and authenticate his password
-• The password is Hashed and Salted
-• The algorithm is : SHA256(fixed salt + login + password)
+- We would like to check if a user exists in a database and authenticate his password
+- The password is Hashed and Salted
+- The algorithm is : SHA256(fixed salt + login + password)
 
 Practicing with Hash algorithms
-• Let’s say, we want to authenticate : 
-   • the user “toto”
-   • with a password “secret”
-   • and a fixed salt ”crackme”
+Let’s say, we want to authenticate : 
+- the user “toto”
+- with a password “secret”
+- and a fixed salt ”crackme”
 
 ![alt text][Screenshot1]
 [Screenshot1]: https://github.com/Axway-API-Management/Hash-Functions/blob/master/Screenshot1.png  "Screenshot1"   
 
 Sample Policy to authenticate a user against a database with hashed and salted password
-![alt text][Screenshot1]
+![alt text][Screenshot2]
 [Screenshot2]: https://github.com/Axway-API-Management/Hash-Functions/blob/master/Screenshot2.png  "Screenshot2"   
 
    
