@@ -30,11 +30,11 @@ Practicing with Hash algorithms
    • and a fixed salt ”crackme”
 
 ![alt text][Screenshot1]
-[Screenshot1]: https://github.com/Axway/api-management-artefacts/blob/master/Policy-Loop-custom-filter/Policy%20Loop%20custom%20filter.png  "Screenshot1"   
+[Screenshot1]: https://github.com/Axway-API-Management/Hash-Functions/blob/master/Screenshot1.png  "Screenshot1"   
 
 Sample Policy to authenticate a user against a database with hashed and salted password
 ![alt text][Screenshot1]
-[Screenshot2]: https://github.com/Axway/api-management-artefacts/blob/master/Policy-Loop-custom-filter/Policy%20Loop%20custom%20filter.png  "Screenshot2"   
+[Screenshot2]: https://github.com/Axway-API-Management/Hash-Functions/blob/master/Screenshot2.png  "Screenshot2"   
 
    
 
