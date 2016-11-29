@@ -7,14 +7,15 @@ Here is how to deal with that situation
 
 ## API Management Version Compatibilty
 This artefact was successfully tested for the following versions:
-- To be completed
+- 7.5.1
 
 
 ## Install
 
-```
-To be completed
-```
+Sample Policy to authenticate a user against a database with hashed and salted password
+![alt text][Screenshot2]
+[Screenshot2]: https://github.com/Axway-API-Management/Hash-Functions/blob/master/Screenshot2.png  "Screenshot2"   
+
 
 ## Usage
 
@@ -32,16 +33,12 @@ Let’s say, we want to authenticate :
 ![alt text][Screenshot1]
 [Screenshot1]: https://github.com/Axway-API-Management/Hash-Functions/blob/master/Screenshot1.png  "Screenshot1"   
 
-Sample Policy to authenticate a user against a database with hashed and salted password
-![alt text][Screenshot2]
-[Screenshot2]: https://github.com/Axway-API-Management/Hash-Functions/blob/master/Screenshot2.png  "Screenshot2"   
-
    
 
 ## Bug and Caveats
 
 ```
-To be completed
+Nothing identified 
 ```
 
 ## Contributing
