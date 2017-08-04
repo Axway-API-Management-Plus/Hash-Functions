@@ -14,7 +14,7 @@ This artefact was successfully tested for the following versions:
 
 Sample Policy to authenticate a user against a database with hashed and salted password
 ![alt text][Screenshot2]
-[Screenshot2]: https://github.com/Axway-API-Management/Hash-Functions/blob/master/Readme/Screenshot2.png  "Screenshot2"   
+[Screenshot2]: https://github.com/Axway-API-Management-Plus/Hash-Functions/blob/master/Readme/Screenshot2.png  "Screenshot2"   
 
 
 ## Usage
@@ -43,7 +43,7 @@ Nothing identified
 
 ## Contributing
 
-Please read [Contributing.md] (https://github.com/Axway-API-Management/Common/blob/master/Contributing.md) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [Contributing.md](https://github.com/Axway-API-Management-Plus/Common/blob/master/Contributing.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Team
 
@@ -53,5 +53,5 @@ Please read [Contributing.md] (https://github.com/Axway-API-Management/Common/bl
 
 
 ## License
-Apache License 2.0 (refer to document [license] (/LICENSE))
+[Apache License 2.0](LICENSE)
 
